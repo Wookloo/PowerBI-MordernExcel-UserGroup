@@ -2,7 +2,7 @@
 Power BI and Modern User Group Workshop
 
 
-# Import Multiple File in a folder
+# Import Multiple Files in a folder
 
 1. From the Power Query ribbon you click From File > From Folder:
 
@@ -10,17 +10,17 @@ Power BI and Modern User Group Workshop
 
 2. Select the folder "Sales_CSV"
 
-3. Then hit the buttom Combine and Transform
+3. Then hit the button "Combine and Transform"
 
-4. Click closed and Load
+4. Click "Closed and Load"
 
-5. Insert a Table in your power bi file (or insert a pivot table if you are in Excel) and add date product and amount 
+5. Insert a Table in your Power BI file (or insert a pivot table if you are in Excel) and add "Date" "Product" and "Amount" 
 
-6. Add all the file from the Folder *\Power Query Workshop\New Sales CSV into the the folder *\Power Query Workshop\Sales_CSV
+6. Add all the files from the Folder *\Power Query Workshop\New Sales CSV into the the folder *\Power Query Workshop\Sales_CSV
 
-7. Click Refresh in the ribbon 
+7. Click "Refresh" in the ribbon 
 
-8. The full year 2008 is now avaialble
+8. The full year 2008 is now available
 
 
 
