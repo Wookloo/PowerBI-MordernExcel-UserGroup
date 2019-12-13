@@ -1,4 +1,4 @@
-# PowerBI-MordernExcel-UserGroup
+# PowerBI-ModernExcel-UserGroup
 Power BI and Modern User Group Workshop
 
 
