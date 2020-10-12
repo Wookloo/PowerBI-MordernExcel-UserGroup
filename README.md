@@ -32,11 +32,11 @@ Click on the file  in the Power Query Workshop folder "Budget.xlsx"
 
 2. Select one of the sheet to start your transformation
 
-3. By using the Transformation you have hand up with the following table:
+3. After clicking transform you end up with the following table:
 
                         |Region|Market|MODEL|Date|Amount
 
-3. Once finish you have to way to import the rest of the sheet
+3. Once finish you have to find a way to import the rest of the sheet
 
 # Begginner:
 
