@@ -59,7 +59,7 @@ Click on the file  in the Power Query Workshop folder "Budget.xlsx"
 
         #"Budget 2500C_Sheet" = Source{[Item=sheet_name,Kind="Sheet"]}[Data],
                
-               to 
+to 
                 
         #"Budget 2500C_Sheet"= Source{[Item=sheet_name,Kind="Sheet"]}[Data],
 
