@@ -50,8 +50,11 @@ Click on the file  in the Power Query Workshop folder "Budget.xlsx"
 4b. In the ribbon Home >  Advanced Editor
 
 5b. Add the following code at the begginning : 
+
                         let
+
                         Source = (sheet_name)=>
+
 6b. Modify this section of the code from :
 
         #"Budget 2500C_Sheet" = Source{[Item=sheet_name,Kind="Sheet"]}[Data],
